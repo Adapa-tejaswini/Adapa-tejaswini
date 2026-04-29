@@ -26,12 +26,12 @@
 
 ## ⚡ Highlighted Work
 
-| Project | Domain | Stack | Link |
-|--------|--------|-------|------|
-| Avatar Lab | AI / Computer Vision | JavaScript, React, OpenVoice | 🔗 Coming Soon |
-| Portfolio Website | Web Development | HTML, CSS, JavaScript | 🔗 Coming Soon |
-| Online Art Gallery | Web Application | HTML, CSS, JavaScript | 🔗 Coming Soon |
-| Face Recognition Attendance System | AI / Machine Learning | Python, OpenCV | 🔗 Coming Soon |
+| Project | Domain | Stack |
+|--------|--------|-------|
+| Avatar Lab | AI / Computer Vision | JavaScript, React, OpenVoice |
+| Portfolio Website | Web Development | HTML, CSS, JavaScript | 
+| Online Art Gallery | Web Application | HTML, CSS, JavaScript | 
+| Face Recognition Attendance System | AI / Machine Learning | Python, OpenCV | 
 
 ## 🛠️ Skills
 
