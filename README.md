@@ -36,7 +36,7 @@
 ## 🛠️ Skills
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,js,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
 
 ### 🌐 Frameworks  
 <img src="https://skillicons.dev/icons?i=react,nodejs" />
